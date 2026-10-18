@@ -31,3 +31,7 @@ LLMs can generate answers containing hallucinated or unsupported information, ev
 ## Project Status
 
 Initial development — environment setup completed.
+
+## Application Preview
+
+![Screenshot](https://github.com/user-attachments/assets/...)
