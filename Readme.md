@@ -34,5 +34,10 @@ Initial development — environment setup completed.
 
 ## Application Preview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210" alt="Hallucination Verification Framework Interface" width="85%">
+</p>
 
-<img width="1917" height="772" alt="app-interface png" src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210" />
+<p align="center">
+  <em>Document upload and question interface built with Streamlit.</em>
+</p>
