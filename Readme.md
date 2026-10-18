@@ -34,4 +34,5 @@ Initial development — environment setup completed.
 
 ## Application Preview
 
-![Screenshot](https://github.com/user-attachments/assets/...)
+
+<img width="1917" height="772" alt="app-interface png" src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210" />
