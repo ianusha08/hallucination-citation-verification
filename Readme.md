@@ -35,7 +35,11 @@ Initial development — environment setup completed.
 ## Application Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210" alt="Hallucination Verification Framework Interface" width="85%">
+  <img
+    src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210"
+    alt="Hallucination Verification Framework Interface"
+    width="85%"
+  />
 </p>
 
 <p align="center">
@@ -44,20 +48,7 @@ Initial development — environment setup completed.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210"
-    alt="Application upload interface"
-    width="85%"
-  />
-</p>
-
-<p align="center">
-  <em>Document upload and question interface.</em>
-</p>
-
-<p align="center">
-  <img
-    src="<img width="1842" height="807" alt="claim-interface png" src="https://github.com/user-attachments/assets/0b12dac3-4e4c-4d84-b64a-deba660a1521" />
-"
+    src="https://github.com/user-attachments/assets/0b12dac3-4e4c-4d84-b64a-deba660a1521"
     alt="Generated answer and claim verification"
     width="85%"
   />
