@@ -305,17 +305,3 @@ The initial RAG and claim-verification pipeline has been implemented, and its co
 Development is ongoing, particularly around integrated citation verification, evaluation, and improving the reliability of claim-level assessments.
 
 ---
-
-## Author
-
-**Anusha Singh**
-
-B.Tech Computer Science & Engineering — AI & ML
-
-GitHub: [@ianusha08](https://github.com/ianusha08)
-
----
-
-<p align="center">
-  <em>Building toward more transparent and evidence-grounded AI systems.</em>
-</p>
