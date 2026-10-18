@@ -36,9 +36,9 @@ Initial development — environment setup completed.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/8c24ae2d-0871-488e-8722-33dc07a8e210"
-    alt="Hallucination Verification Framework Interface"
-    width="85%"
+    src="https://github.com/user-attachments/assets/dade6611-5418-48b4-8aa7-3e1845c7391c"
+    alt="Hallucination Verification Framework - Application Interface"
+    width="95%"
   />
 </p>
 
@@ -48,12 +48,12 @@ Initial development — environment setup completed.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/0b12dac3-4e4c-4d84-b64a-deba660a1521"
-    alt="Generated answer and claim verification"
-    width="85%"
+    src="https://github.com/user-attachments/assets/fafd36c3-bc89-44e1-92b6-11a1d47cc23a"
+    alt="Generated Answer and Claim Verification Interface"
+    width="95%"
   />
 </p>
 
 <p align="center">
-  <em>Generated answer with claim-level evidence verification.</em>
+  <em>Generated answer with claim-level evidence verification and verdict classification.</em>
 </p>
