@@ -130,14 +130,13 @@ A separate citation validation component checks whether a cited source and page 
 Semantic citation-support verification and full citation integration are planned extensions of this component.
 
 ---
-
 ## Application Preview
 
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/dade6611-5418-48b4-8aa7-3e1845c7391c"
-    alt="Application interface"
-    width="100%"
+    alt="Hallucination Verification Framework - Application Interface"
+    width="95%"
   />
 </p>
 
@@ -147,16 +146,15 @@ Semantic citation-support verification and full citation integration are planned
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/fafd36c3-bc89-44e1-92b6-b11a1d47cc23"
-    alt="Generated answer and claim verification"
-    width="100%"
+    src="https://github.com/user-attachments/assets/fafd36c3-bc89-44e1-92b6-11a1d47cc23a"
+    alt="Generated Answer and Claim Verification Interface"
+    width="95%"
   />
 </p>
 
 <p align="center">
   <em>Generated answer with claim-level evidence verification and verdict classification.</em>
 </p>
-
 ---
 
 ## Technology Stack
