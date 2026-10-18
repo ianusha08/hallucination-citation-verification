@@ -1,0 +1,2 @@
+RAG stands for Retrieval-Augmented Generation.
+It uses external documents to provide context to an LLM.
